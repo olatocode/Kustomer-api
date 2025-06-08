@@ -35,4 +35,3 @@ app.use('/api/v1', userRoute);
 app.listen(PORT, () => {
   console.log(`Server connected to http://localhost:${PORT}`);
 });
-
